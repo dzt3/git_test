@@ -1,1 +1,3 @@
 This is a text file with the word apple in it
+I now have two apples.
+A red apple and a green apple.
